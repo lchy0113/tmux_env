@@ -326,3 +326,12 @@ font.
 
 
 # tmux-mem-cpu-load : https://github.com/lchy0113/tmux-mem-cpu-load
+
+
+# Private
+-----
+- Update tmux conf
+* tmux 단축키 + : 
+```
+set-window-option -g mode-keys vi
+```

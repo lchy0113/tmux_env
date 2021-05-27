@@ -294,3 +294,5 @@ set -g mode-keys vi
 
 # move status line to top
 #set -g status-position top
+
+set-window-option -g mode-keys vi
