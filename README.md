@@ -333,5 +333,5 @@ font.
 - Update tmux conf
 * tmux 단축키 + : 
 ```
-set-window-option -g mode-keys vi
+source-file ~/.tmux.conf
 ```
